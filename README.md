@@ -20,7 +20,7 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/karatechopchop/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/karatechopchop/DecrypterPOC)
 
-<h2> 📃 Certifications</h2>
+<h2> ⛩ Certifications</h2>
 
 - <b>COMPTIA</b>
   - [A+, Coming Soon](https://github.com/karatechopchop/Comptia1)
