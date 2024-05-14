@@ -14,8 +14,8 @@
 
 - <b>Python</b>
   - [Package Delivery Application (Data-Structures and Algorithms Demo)](https://github.com/karatechopchop/Python1)
-- <b>Java</b>
-  - [Credit Card Authenticator](https://github.com/karatechopchop/Java1)
+- <b>C</b>
+  - [Credit Card Authenticator](https://github.com/karatechopchop/CCard)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/karatechopchop/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/karatechopchop/DecrypterPOC)
