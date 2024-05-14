@@ -7,7 +7,7 @@
 - <b>Active Directory Home Lab</b>
   - [Oracle Virtual Box with Powershell](https://github.com/karatechopchop/ActiveDirectoryLab)</b>
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/karatechopchop/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/myhoach/Failed-RDP-to-IP-Geolocation-Information)
 
  
 <h2> 💻 Computer Science Projects</h2>
