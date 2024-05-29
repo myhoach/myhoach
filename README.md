@@ -1,4 +1,4 @@
-<h1>Hi, I'm My Hoach! <br/><a href="https://github.com/myhoach">Programmer</a>, and <a href="https://www.linkedin.com/in/myhoach/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm My! <br/><a href="https://github.com/myhoach">Programmer</a>, and Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
@@ -35,8 +35,8 @@
 
 [<img align="left" alt="My H. | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/myhoach/
-
+[linkedin]: Off for Security Purposes
+<!-- <a href="https://www.linkedin.com/in/myhoach/"> -->
 <!--
 **Karatechopchop/Karatechopchop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
