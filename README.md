@@ -1,4 +1,4 @@
-<h1>Hi, I'm My! <br/><a href="https://github.com/myhoach">Programmer</a>, and Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Myles! <br/><a href="https://github.com/myhoach">Programmer</a>, and Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
