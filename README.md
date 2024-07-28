@@ -1,6 +1,6 @@
-<h1>Hi, I'm Myles! I'm a<br/>
+<h1>Hi, I'm Myles!<br/>
 <!-- <a href="https://github.com/myhoach">Programmer</a>, and Cybersecurity Professional</a></h1> -->
-<h1>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Programmer &;Cybersecurity Professional)](https://git.io/typing-svg)</h1>
+<h1>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Programmer and;Cybersecurity Professional)](https://git.io/typing-svg)</h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
