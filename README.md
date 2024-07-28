@@ -1,7 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I'm+Myles+and+I+am+a" alt="Typing SVG" /></a><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Programmer+%26+Cybersecurity+Professional" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=25&pause=1000&vCenter=true&width=650&height=45&lines=Hey%2C+I'm+Myles+and+I'm+a" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&vCenter=true&width=850&height=45&lines=Programmer+%26+Cybersecurity+Professional" alt="Typing SVG" /></a>
   
-<h2>👨‍💻 Cybersecurity Projects</h2>
+<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=25&pause=1000&color=F7F7F7&vCenter=true&width=500&height=40&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Cybersecurity+Projects" alt="Typing SVG" /></a></h2>
 
 - <b>Azure SOC & Honeynet</b>
   - [Custom Workbooks Map in Microsoft Sentinel](https://github.com/karatechopchop/Azure1)
