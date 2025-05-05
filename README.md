@@ -1,5 +1,5 @@
 <!-- My name here -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=24&pause=1000&vCenter=true&repeat=false&width=650&height=45&lines=Hey%2C+I'm+Myles+and+I'm+a" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=24&pause=1000&vCenter=true&repeat=false&width=650&height=45&lines=Hey%2C+I'm+My+and+I'm+a" alt="Typing SVG" /></a>
 <!-- Job title here -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&vCenter=true&width=850&height=45&lines=Programmer+%26+Cybersecurity+Professional" alt="Typing SVG" /></a>
   
