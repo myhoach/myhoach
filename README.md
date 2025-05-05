@@ -12,6 +12,12 @@
 - <b>Active Directory Home Lab w/ Virtual Machines</b> 
   - [Oracle Virtual Box Scripted with Powershell to Simulate an Active Database of Users](https://github.com/karatechopchop/ActiveDirectoryLab)</b>
 
+
+<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=23&duration=6000&pause=1000&color=F7F7F7&vCenter=true&width=500&height=40&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Cybersecurity+Work+Simulations" alt="Typing SVG" /></a></h2>
+
+- <b>MasterCard Email Phishing Campaign Simulation on TheForage</b> 
+  - [Design a Phishing Email Simulation That Will be Used in Phishing Awareness Training](https://github.com/karatechopchop/MasterCardSimulation)</b>
+
  
 <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=23&duration=6000&pause=1000&color=F7F7F7&vCenter=true&width=500&height=40&lines=%F0%9F%92%BB+Computer+Science+Projects" alt="Typing SVG" /></a></h2>
 
