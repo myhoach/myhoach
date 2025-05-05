@@ -5,12 +5,12 @@
   
 <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=23&duration=6000&pause=1000&color=F7F7F7&vCenter=true&width=500&height=40&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Cybersecurity+Projects" alt="Typing SVG" /></a></h2>
 
-- <b>Azure SOC & Honeynet</b>
-  - [Custom Workbooks Map in Microsoft Sentinel](https://github.com/karatechopchop/Azure1)
+- <b>Azure Cloud SOC</b>
+  - [Fully Functional Security Operations Center on Azure Powered by Sentinel](https://github.com/karatechopchop/Azure1)
+- <b>Azure Honeynet w/PowerShell</b>
+  - [Custom Vulnerable Honeynet System used for tracking failed log-in attempts](https://github.com/myhoach/Failed-RDP-to-IP-Geolocation-Information)
 - <b>Active Directory Home Lab</b>
   - [Oracle Virtual Box with Powershell](https://github.com/karatechopchop/ActiveDirectoryLab)</b>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/myhoach/Failed-RDP-to-IP-Geolocation-Information)
 
  
 <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=23&duration=6000&pause=1000&color=F7F7F7&vCenter=true&width=500&height=40&lines=%F0%9F%92%BB+Computer+Science+Projects" alt="Typing SVG" /></a></h2>
