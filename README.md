@@ -18,6 +18,8 @@
 - <b>MasterCard Email Phishing Campaign Simulation on TheForage</b> 
   - [Design a Phishing Email Simulation That Will be Used in Phishing Awareness Training](https://github.com/karatechopchop/MasterCardSimulation)</b>
 
+
+ <!--  COMPUTER SCIENCE PROJECTS SECTION STARTS HERE!!!
  
 <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=23&duration=6000&pause=1000&color=F7F7F7&vCenter=true&width=500&height=40&lines=%F0%9F%92%BB+Computer+Science+Projects" alt="Typing SVG" /></a></h2>
 
@@ -28,6 +30,10 @@
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/karatechopchop/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/karatechopchop/DecrypterPOC)
+
+-->
+ <!--  COMPUTER SCIENCE PROJECTS SECTION ENDS HERE!!!  -->
+
 
 <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=23&duration=6000&pause=1000&color=F70000&vCenter=true&repeat=false&width=25&height=40&lines=%E2%9B%A9+" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=23&duration=6000&pause=1000&color=F7F7F7&vCenter=true&width=500&height=40&lines=Certifications" alt="Typing SVG" /></a></h2>
