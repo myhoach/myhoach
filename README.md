@@ -33,13 +33,18 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=23&duration=6000&pause=1000&color=F7F7F7&vCenter=true&width=500&height=40&lines=Certifications" alt="Typing SVG" /></a></h2>
 
 - <b>COMPTIA</b>
-  - [A+, Coming Soon](https://github.com/karatechopchop/Comptia1)
-  - [Security+, Coming Soon](https://github.com/karatechopchop/Comptia2)
-  - [Network+, Coming Soon](https://github.com/karatechopchop/Comptia3)
-- <b>NIST</b>
+  - [Security+, Coming Soon](https://github.com/karatechopchop/Comptia1)
+- <b>OKTA</b>
+  - [Certified Professional, Coming Soon](https://github.com/karatechopchop/Comptia1)
+- <b>GOOGLE</b>
+  - [Cybersecurity Professional, In Progress](https://github.com/karatechopchop/Comptia1)
+- <b>FEMA National Incident Management System (NIMS)</b>
+  - [ICS-100, In Progress](https://github.com/karatechopchop/Comptia1)
+- <b>NIST: Risk Management Framework for Systems and Organizations</b>
   - [(SP) 800-37 Rev.2, April 2024](https://github.com/karatechopchop/Nist1)
 - <b>QUALYS</b>
   - [Vulnerability Management Foundation, April 2023](https://github.com/karatechopchop/Qualys1)
+
 
 <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=23&duration=6000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=500&height=40&lines=%F0%9F%93%B1+Connect+with+me%3A" alt="Typing SVG" /></a></h2>
 
