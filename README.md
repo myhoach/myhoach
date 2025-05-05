@@ -8,7 +8,7 @@
 - <b>Azure Cloud SOC</b>
   - [Fully Functional Security Operations Center on Azure Powered by Sentinel](https://github.com/karatechopchop/Azure1)
 - <b>Azure Honeynet w/PowerShell</b>
-  - [Custom Vulnerable Honeynet System used for tracking failed log-in attempts](https://github.com/myhoach/Failed-RDP-to-IP-Geolocation-Information)
+  - [Custom Honeynet System with Global IP Tracking of Failed RDP Attacks](https://github.com/myhoach/Failed-RDP-to-IP-Geolocation-Information)
 - <b>Active Directory Home Lab</b>
   - [Oracle Virtual Box with Powershell](https://github.com/karatechopchop/ActiveDirectoryLab)</b>
 
